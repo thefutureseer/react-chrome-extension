@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ width: '300px', height: '400px' }}>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
